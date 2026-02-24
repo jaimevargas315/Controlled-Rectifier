@@ -32,7 +32,7 @@ For a **60 Hz** signal at a **10 $\mu\text{s}$** sample rate:
 3.  **Embedded Deployment:** Preparing the model for Hardware-in-the-Loop (HIL) testing by enforcing strictly discrete-time blocks and fixed-point arithmetic readiness.
 
 ##  Future Work
-* Uploaded generated C code
+* Upload generated C code
 
 ---
 **Author:** Jaime Vargas  
